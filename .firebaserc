@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "emeraldy-dashboard"
+    "default": "emeraldy-dashboard",
+    "emedashboard": "emeraldy-dashboard",
+    "emeadd": "emeraldy-add-number",
+    "eme_dashboard": "emeraldy-dashboard"
   }
 }
